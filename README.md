@@ -221,7 +221,7 @@ respecto del conjunto de la ciencia.
   morfométricos realizados, los descriptores básicos de estos análisis,
   los patrones espaciales de las variables obtenidas (en genera, la
   morfometría produce atributos de la cuenca y de la red, que en
-  conjunto podemos considerar coov “variables”). Describe estos patrones
+  conjunto podemos considerar como “variables”). Describe estos patrones
   usando orientaciones cardinales y referencias geográficas. No hagas
   valoraciones en esta sección, simplemente incluye los resultados
   obtenidos.
